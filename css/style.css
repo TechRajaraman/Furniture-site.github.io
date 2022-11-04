@@ -1,1 +1,375 @@
+*
+{
+	padding: 0;
+	margin: 0;
+	text-align: justify;
+	font-family: sans-serif, Poppins ;
+}
+img
+{
+	border-radius: 20px;
+}
+.wrapper
+{
+	background-color: #800000;
+	color: #fff;
+}
+ul li
+{
+	display: inline-block;
+	padding: 0 10px;
+}
+.top
+{
+	display: flex;
+	justify-content: flex-end;
+	padding: 20px 8%;
+}
+h2
+{
+	margin-right: auto;
+	
+}
+ .start
+{
+	display: flex;
+	padding: 30px 8%;
+}
 
+.first p
+{
+	margin-top: 40px;
+	line-height: 1.5;
+}
+.first h1
+{
+	font-size: 50px;
+}
+button
+{
+	display: inline-block;
+	margin-top: 80px;
+	margin-right: 20px;
+	border-radius: 20px;
+	cursor: pointer;
+	padding: 15px;
+	background-color: #800000;
+	border: 1px solid;
+}
+button:hover
+{
+
+	background-color: #fff;
+}
+.second
+{
+	display: flex;
+	margin: 35px 8%;
+}
+.second h2
+{
+	font-size: 30px;
+}
+.second p{
+	margin: 20px 0px;
+	line-height: 1.5;
+}
+.sec{
+	margin: 4% 0;
+	margin-top: 5%;
+}
+.btn
+{
+	margin-top: 20px;
+	border: none;
+	color: #fff;
+}
+.left
+{
+	margin: 3% 3%;
+}
+.third
+{
+	display: flex;
+	margin: 10px 8%;
+}
+.tri
+{
+	padding-right: 100px;
+}
+.tri h2
+{
+	padding-bottom: 20px;
+	font-size: 30px;
+
+}
+.tri p
+{
+	line-height: 1.5;
+	padding-bottom: 20px;
+	margin-right: 5%;
+}
+.po
+{
+	padding-right: 10%;
+	text-align: justify;
+}
+.flx{
+	display: flex;
+}
+.sub
+{
+	margin: 20px;
+	padding: 10px;
+}
+.sob
+{
+	margin: 20px;
+	padding: 10px;
+}
+.flx h3, p
+{
+	padding: 10px;
+}
+.pic
+{
+	margin-top: 6%;
+}
+.fourth
+{
+	display: flex;
+	margin: 20px 8%;
+}
+.fur p, h1
+{
+	margin: 30px 20%;
+	line-height: 1.5;
+
+}
+.fox
+{
+	display: flex;
+	margin: 0 10%;
+	list-style: circle;
+}
+.fo-sub li
+{
+    padding: 10px;
+}
+.fo-sob li
+{
+    padding: 10px;
+}
+.bot
+{
+	margin-left: 12%;
+	margin-top: 3%;
+	color: white;
+}
+.fifth
+{
+	display: flex;
+    margin: 5% 8%;
+    margin-bottom: 0;
+    justify-content: center;
+}
+.fifth div
+{
+	padding: 10px 30px 0 30px;
+
+}
+.sixth
+{
+	display: flex;
+	margin: 4% 8%;
+	margin-top: 1%;
+}
+.sixth p
+{
+	padding-right: 50%;
+	font-size: 11px;
+}
+
+.fio
+{
+   margin-left: 19%;
+
+}
+.fit
+{
+	margin-left: -13%;
+}
+.fith
+{
+	margin-left: -12%;
+}
+.sixth h4
+{
+	padding-left: 60px;
+}
+.test
+{
+	text-align: center;
+}
+.icon
+{
+	display: flex;
+	margin: 0 23%;
+    padding: 0 20px;
+}
+.par
+{
+	margin: 0 18%;
+	shape-margin: unset;
+}
+.icon i{
+	margin-top: 35px;
+	color: darkred;
+}
+.pro{
+	border-radius: 50px;
+	margin: 1% 48% 5px 48%;
+}
+.hich
+{
+	margin-left: 49%;
+	padding-bottom: 2px;
+}
+.hach
+{
+	margin-left: 46.5%;
+	margin-bottom: 5%;
+}
+.blog
+{
+	display: flex;
+	margin: 0 8%;
+}
+.blog li{
+	text-decoration: underline 3px darkred;
+	list-style: none;
+}
+.last
+{
+	display: flex;
+	margin: 4% 8% 10px 8%;
+	justify-content: center;
+}
+.last div
+{
+	padding-right: 50px;
+}
+.lap
+{
+	display: flex;
+	margin: 1% 28% 3% 28%;
+}
+.lap p{
+	font-size: 10px;
+}
+.tit
+{
+   margin-left: 4%;
+}
+.mit
+{
+   margin-left: 14%;
+}
+.kit
+{
+   margin-left: 10%;
+}
+.kit p{
+   margin-left: 12%;
+}
+.near
+{
+		background-color: gray;
+}
+.divone
+{
+	display: flex;
+	margin: 2% 8%;
+	padding-top: 1%;
+
+}
+.divone i
+{
+	padding-right: 15px;
+}
+.divtwo
+{
+	display: flex;
+	margin: 2% 8%;
+	margin-top: 10px;
+	}
+.divtwo input
+{
+	margin-right: 20px;
+	 padding: 10px;
+	 border-radius: 10px;
+}
+footer h1
+{
+	margin: 3% 8% 0 8%;
+}
+.final
+{
+	display: flex;
+	margin: 0 8%;
+	margin-bottom: 2%;
+}
+
+.pra{
+	margin-right: 80%;
+}
+.cnto
+{
+	margin-left: -50%;
+}
+.cntt
+{
+	margin-left: ;
+}
+.cntth
+{
+	margin-left: ;
+}
+.cntf
+{
+	margin-left: ;
+}
+.cntfo
+{
+	margin-left: ;
+}
+.final li
+{
+	font-size: 10px;
+}
+.icn 
+{
+	display: inline-block;
+	margin: 0 8%;
+	margin-bottom: 2%;
+}
+.icn i{
+	padding: 10px;
+}
+.end{
+	display: flex;
+	margin: 0 8%;
+	justify-content: flex-end;
+	padding-bottom: 30px;
+}
+.end p{
+	margin-right: auto;
+}
+.end ul li{
+	margin-top: 4%;
+}
+.ip, .ip2
+{
+	outline-style: none;
+	border: none;
+}
